@@ -3,7 +3,7 @@
 Dev Tool
 - Swift 4.
 
-Implemented Features are follows:
+The Following Features are implemented:
 - Fetch data from WalmartLab Test (asynchrnous)
 - Cache Images
 - Collection View Cell swipe to display next item (gmail app style)
