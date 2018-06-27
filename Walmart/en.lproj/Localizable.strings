@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Wallmart
+
+  Created by ilyas on 6/23/18.
+  Copyright © 2018 ilyas. All rights reserved.
+*/
+
+"loading" = "Loading ...";
+"ok" = "OK";
+"error" = "Error";
+"connection_error" = "Connection issue, please try again later";
+"json_error" = "Sorry, something went wrong. We're working on it and we'll get it fixed as soon as we can.";
+"no_connection" = "No internet connection available";
