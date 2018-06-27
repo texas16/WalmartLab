@@ -3,7 +3,7 @@
 Dev Tool
 - Swift 4.
 
-The Following Features are implemented:
+The following features are implemented:
 - Fetch data from WalmartLab Test (asynchrnous)
 - Cache Images
 - Collection View Cell swipe to display next item (gmail app style)
@@ -12,3 +12,4 @@ The Following Features are implemented:
 - Connectivity check
 - Portrait orientation support
 - Scroll to Load
+- Autolayout
